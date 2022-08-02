@@ -39,7 +39,7 @@ const criarCardFilme = (filme) => {
     descricao.textContent = resposta.overview;
 
     const ranking = document.querySelector(".modal__average");
-    ranking.textContent = resposta.vote_average;
+    ranking.textContent = resposta.vote_average.toFixed(1);
 
     const listaGeneros = document.querySelector(".modal__genres");
     listaGeneros.innerHTML = "";
