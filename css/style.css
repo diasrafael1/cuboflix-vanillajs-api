@@ -411,6 +411,11 @@ body {
   .movie:last-child {
     display: none;
   }
+
+  .modal__genres {
+    flex-wrap: wrap;
+    width: 90%;
+  }
 }
 
 @media screen and (max-width: 520px) {
@@ -501,5 +506,12 @@ body {
   .modal__average {
     font-size: 1.4rem;
     line-height: 150%;
+  }
+}
+
+@media screen and (max-width: 346px) {
+  .modal__genre,
+  .modal__average {
+    font-size: 1rem;
   }
 }
