@@ -1,7 +1,8 @@
 # CuboFlix
 
 <h2>Sobre</h2>
-Desafio proposto no módulo 2 da Cubos Academy. Uma plataforma de filmes que consome a API <a href="https://www.themoviedb.org/documentation/api">The MovieDB</a>.
+<p>Desafio proposto no módulo 2 da Cubos Academy. Uma plataforma de filmes que consome a API <a href="https://www.themoviedb.org/documentation/api">The MovieDB</a>.</p>
+<p>Link para teste: <a href="https://cuboflix.netlify.app/">CuboFlix</a></p>
 
 <h2>Características</h2>
 
